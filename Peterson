@@ -1,5 +1,3 @@
-// C program to implement Peterson’s Algorithm 
-// for producer-consumer problem. 
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <unistd.h> 
